@@ -1,2 +1,3 @@
 # hello world command
-print('hello world!')
+message = 'hello world!'
+print(message)
